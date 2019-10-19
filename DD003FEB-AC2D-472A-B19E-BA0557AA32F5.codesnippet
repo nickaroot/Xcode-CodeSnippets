@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>cAttributes</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>static let attributes = RFTextAttributes(
+                color: &lt;#T##UIColor?#&gt;,
+                font: &lt;#T##UIFont?#&gt;,
+                letterSpacing: &lt;#T##Double?#&gt;,
+                lineHeight: &lt;#T##CGFloat?#&gt;,
+                alignment: &lt;#T##NSTextAlignment?#&gt;,
+                lineBreak: &lt;#T##NSLineBreakMode?#&gt;
+            )</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>DD003FEB-AC2D-472A-B19E-BA0557AA32F5</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Text Attributes Constant</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
