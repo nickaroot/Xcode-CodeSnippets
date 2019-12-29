@@ -14,7 +14,7 @@
                     height: ASDimension(unit: &lt;#T##ASDimensionUnit#&gt;, value: &lt;#T##CGFloat#&gt;)
                 )</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>405AE48F-75BF-4B8C-B8F1-50E480D08424</string>
+	<string>RFSizeConstant</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>

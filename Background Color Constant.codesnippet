@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>static let backgroundColor = &lt;#UIColor#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C50062E5-679F-4C7A-84A3-93062C28EEDE</string>
+	<string>RFBackgroundColorConstant</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>

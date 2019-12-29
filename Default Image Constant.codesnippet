@@ -3,28 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>cAttributes</string>
+	<string>cDefaultImage</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static let attributes = RFTextAttributes(
-                color: &lt;#T##UIColor?#&gt;,
-                font: &lt;#T##UIFont?#&gt;,
-                letterSpacing: &lt;#T##Double?#&gt;,
-                lineHeight: &lt;#T##CGFloat?#&gt;,
-                alignment: &lt;#T##NSTextAlignment?#&gt;,
-                lineBreak: &lt;#T##NSLineBreakMode?#&gt;
-            )</string>
+	<string>static let defaultImage = Asset.Main.noPhoto.image</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>RFTextAttributesConstant</string>
+	<string>RFDefaultImageConstant</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>By default, there is noPhoto asset</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Text Attributes Constant</string>
+	<string>Default Image Constant</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

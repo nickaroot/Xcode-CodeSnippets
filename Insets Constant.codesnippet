@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>static let insets = UIEdgeInsets(top: &lt;#T##CGFloat#&gt;, left: &lt;#T##CGFloat#&gt;, bottom: &lt;#T##CGFloat#&gt;, right: &lt;#T##CGFloat#&gt;)</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2F923B21-16E0-42B2-8BA8-A294363C5DFC</string>
+	<string>RFInsetsConstant</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
